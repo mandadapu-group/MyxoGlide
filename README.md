@@ -7,6 +7,7 @@ The scripts correspond to a dimensionless formulation of the problem with the ma
 capillary numbers (Ca, Cas), the lubrication parameter (eps), the interface thickness (a), the surface tension ratio (tref)
 
 For each script:
+
 1- Create the mesh
 
 2- Choose a certain number of parameters: bacterial membrane length (L) and amplitude (amp), softness parameter (eta), Ca, eps, ...
