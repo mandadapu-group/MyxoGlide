@@ -14,7 +14,7 @@ For each script:
 
 3- Choose carefully the increment step for Newton's iteration. These iterations can be made over a loop of various parameters (eta, Ca, etc.)
 
-4- Run the code.
+4- Run the code with freefem++ (https://freefem.org/)
 
 5- There are several output files, but the user can add or suppress as needed. For now, there are 3 files, respectively for
  instantaneous variables (position, velocity, etc), for time-averaged scalar (position, velocity, etc) and time-averages fields (pressure, 
