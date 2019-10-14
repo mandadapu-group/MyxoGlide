@@ -1,4 +1,4 @@
-# MyxoGlide
+# myxoglide
 
 The files "ElastoHydro.edp" and "ElastoCapillaryHydro.edp" are FreeFem++ scripts for the simulation of bacterial gliding on soft substrates. While the first script only account for viscous and elastic forces, the second one also accounts for capillarity effects. 
 
