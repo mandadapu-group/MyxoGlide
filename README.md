@@ -2,8 +2,6 @@
 
 The files "ElastoHydro.edp" and "ElastoCapillaryHydro.edp" are FreeFem++ scripts for the simulation of bacterial gliding on soft substrates. While the first script only account for viscous and elastic forces, the second one also accounts for capillarity effects. 
 
-The file "Experiments_SpeedvsConcAgar.txt" contains experimental measures of the speeds of M. xanthus cells on agar gels on varying concentrations. The concentrations are in the 1st column, while the mean and standard error on the speed are on the 2nd and 3rd columns respectively.
-
 Note that the scripts correspond to a dimensionless formulation of the problem with the main parameters being the softness parameters (eta) and capillary numbers (Ca, Cas), the lubrication parameter (eps), the interface thickness (a), the surface tension ratio (tref).
 
 For each script:
