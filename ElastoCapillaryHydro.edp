@@ -1,4 +1,5 @@
 //This code computes the solution of the elasto-capillary-hydrodynamic problem for myxobacteria gliding 
+//Author: Joel Tchoufag (joel.tchoufag@gmail.com)
 
 verbosity=0;
 load "medit"
